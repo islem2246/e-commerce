@@ -4,6 +4,6 @@
     <title> DevSecOps Yasmine & Islem </title>
 </head>
 <body>
-    <h2><%= "Hello ISET KAIROUAN DANS VOTRE COURS DEVOPS DE L'AU 2025-2026 GIT-->GITHUB-->SAST--->JENKINS-->DOCKER-->DAST-->DEPOY TOMCAT "  %></h2>
+    <h2><%= " GIT-->GITHUB-->SAST--->JENKINS-->DOCKER-->DAST-->DEPOY TOMCAT 22-11-2025"  %></h2>
 </body>
 </html>
