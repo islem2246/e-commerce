@@ -4,6 +4,6 @@
     <title> DevSecOps Yasmine & Islem </title>
 </head>
 <body>
-    <h2><%= "DEVOPS: GIT-->GITHUB-->SAST--->JENKINS-->DOCKER-->DAST-->DEPOY TOMCAT 22-11-2025 N.GRASSA"  %></h2>
+    <h2><%= "DEVOPS ENFIN: GIT-->GITHUB-->SAST--->JENKINS-->DOCKER-->DAST-->DEPOY TOMCAT 22-11-2025 N.GRASSA"  %></h2>
 </body>
 </html>
